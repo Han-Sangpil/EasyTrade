@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21"/>
+	<classpathentry kind="src" path="main/java"/>
+	<classpathentry kind="lib" path="main/webapp/WEB-INF/lib/cos-05Nov2002.jar"/>
+	<classpathentry kind="lib" path="main/webapp/WEB-INF/lib/ojdbc17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
