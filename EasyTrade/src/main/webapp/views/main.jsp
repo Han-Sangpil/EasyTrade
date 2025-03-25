@@ -12,6 +12,7 @@
     <div class="container my-5">
         <h2 class="mb-4">중고 상품 목록</h2>
         <p>여기에 상품 리스트 출력 예정</p>
+        <p>하이하이</p>
     </div>
 
     <jsp:include page="footer.jsp" />
